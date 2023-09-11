@@ -1,6 +1,8 @@
 # portfolio
 
 ![Screenshot 2023-09-11 210615](https://github.com/akshrasingh/portfolio/assets/110145062/fd70acbc-1bf7-44a8-9b8b-3182a2f5c912)
+![Screenshot 2023-09-11 210640](https://github.com/akshrasingh/portfolio/assets/110145062/ce222884-af7f-4dbd-b670-d7ebce94776f)
+
 ![Screenshot 2023-09-11 210700](https://github.com/akshrasingh/portfolio/assets/110145062/da60af72-371d-4148-bb52-7dc710d92bea)
 
 
